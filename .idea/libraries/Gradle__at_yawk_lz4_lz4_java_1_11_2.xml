@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: at.yawk.lz4:lz4-java:1.11.2" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="at.yawk.lz4" artifactId="lz4-java" version="1.11.2" baseVersion="1.11.2" />
+    <CLASSES>
+      <root url="jar://D:/.gradle/caches/modules-2/files-2.1/at.yawk.lz4/lz4-java/1.11.2/3fe7cb28a7102752d77c3aa4e309ea76efe85def/lz4-java-1.11.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/.gradle/caches/modules-2/files-2.1/at.yawk.lz4/lz4-java/1.11.2/ac7adaf24f917534282ac66554955150eb43ac4f/lz4-java-1.11.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

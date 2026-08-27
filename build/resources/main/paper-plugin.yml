@@ -1,0 +1,5 @@
+name: FluidInjector
+version: '1.0-SNAPSHOT'
+main: fr.iambibi.fluidinjector.FluidInjectorPlugin
+description: Un plugin expérimental pour injecter des liquides custom dans Minecraft.
+api-version: '26.2'

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: io.netty:netty-codec-haproxy:4.2.15.Final" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="io.netty" artifactId="netty-codec-haproxy" version="4.2.15.Final" baseVersion="4.2.15.Final" />
+    <CLASSES>
+      <root url="jar://D:/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-haproxy/4.2.15.Final/7c01b11fb26eba191b005404c862af17ea437e3a/netty-codec-haproxy-4.2.15.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-haproxy/4.2.15.Final/31c3a340e7cea58bd7ac6f7342442e9c98c7d6c0/netty-codec-haproxy-4.2.15.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

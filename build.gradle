@@ -1,0 +1,19 @@
+plugins {
+    id 'java'
+    id "io.papermc.paperweight.userdev" version "${paperWeightUserDevVersion}"
+}
+
+group = 'fr.iambibi'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    paperweight.paperDevBundle "${minecraftVersion}.build.${paperVersion}"
+
+    implementation "org.jetbrains:annotations:${jetbrainsAnnotationsVersion}"
+    compileOnly "org.projectlombok:lombok:${lombokVersion}"
+    annotationProcessor "org.projectlombok:lombok:${lombokVersion}"
+}
